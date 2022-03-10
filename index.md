@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/rastabrandy02/Proyect_II_E
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction to the Artificial Inteligence
+In videogames, the artificial intelligence is used to generate responsive behaviours against certain situations in non playable characters. It is mainly used to improve the game-player experience rather than machine-learning (but it can also be used). The AI in videogames was popularized during the arcade golden age of arcade games, making different difficulty levels, alternate movement patterns and in-game events driven by the player actions. Modern games use AI to implement pathfinding, decision trees, data-mining and procedural content generation.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,6 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
