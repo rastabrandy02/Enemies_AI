@@ -42,3 +42,18 @@ If an enemy is able to drop a specific item and certain conditions are met durin
 The charm is an altered state that makes an enemy help your party for a specific number of turns. Charmed enemies are not controlled by the player so they will beahave as usual but against the other enemies.
 If the player uses certain abilities and/or items onto an enemy it might want to join your party when slain. These enemies act as complete characters so you can continue the game using the tamed enemies equiping, leveling and controlling them.
 # Example bosses
+Now I will use some bosses from the Dragon Quest saga to make some examples of their specific behaviour and what strategies encourage to the player.
+## Malicious grey gordon
+This boss acts as a spawner and a support so it will call more monsters into battle and buff/heal them. The spawned enemies are casters and supports. The attacks of this boss and those of the spawned enemies are almost all altered state skills, making the battle incredibly difficult if the player doesn't have a plan and lets the enemies buff themselves. 
+This boss encourages the player to use altered states onto the boss to manage the spawned enemies first and then trying to burst the boss itself as fast as possible before it spawns more enemies.
+## Mortamor
+The first phase of Mortamor is a caster archetype, the second phase is an anti-tank archetype and the third phase is one caster and two supports.
+This changes of the boss behaviour exist to make the player change their strategies depending on the current state of the battle, using some skills more often than others, reserving the mana of specific characters for some phase or defending at certain moments of the battle with the most vulnerable characters.
+## Psaro 
+Psaro is a very interesting boss beacuse it has 7 phases, through wich it will be loosing partso of its body and then regenearating them in a stronger way, changing its behaviour accordingly to its appearence. For example, when it has two arms it is capable of doing multi-target physical attacks, when it looses one it will only make single target attacks and when loosing both it will only cast spells. 
+When the battle continues it will change its appearence drastically and start casting more powerful spells, it will grow arms and legs, regaining the ability to do physical attacks and finally growing a second head, gaining the ability to make 2 actions each turn.
+This boss encourages the player to burst the most dangerous phases and healing/buffing the party in the less difficult phases while maintaining a correct mana economy to be able to burst the final phase, which is the most difficult.
+## Calasmos
+This boss is very difficult, it has a lot of resistances and dangerous spells but, if the player uses a specific item from a secondary quest, it will become more manageable.
+The use of this item is transmitted to the player through the storyline, there's not a specific message telling the player to use it, there's only the knowdledge that the player has achieved playing and talking to the party and other NPC's.
+This makes the player more engaged with the storyline and gives the sensation that they have discovered the weakness of the final boss by themself, making it specially rewarding just because the stories and legends of the world feel real.
