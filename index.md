@@ -26,6 +26,19 @@ They usually have low life pools and damage. Their main characteristic is that t
 ## Reward
 These enemies have high life pools/defenses and their probability to flee is very high. The main characteristic of this archetype is the reward they give when slain (gold, xp, items...). Those characteristics make the reward enemies a high priority target because the player wants to beat them before they flee, increasing intrisically the difficulty of the battle just because the party is not focusing the rest of enemies.
 # Other uses of artificial intelligence
-
-
-
+## Aggro
+The aggro is a range around the enemies in which, if the player goes trhough it, the enemies will start chasing them to begin the battle encounter.
+In case that the player is underleveled for the current zone, the enemies will have increased aggro range and chase the party faster.
+This is a natural way of communicating the player that the enemies are stronger than them because they see the player as a prey.
+## Flee
+If the player is overleveled for the current zone, the enemies will try to run away instead of chasing the party.
+Also, if the player starts a battle with underleveled monster, they might try to flee out of combat.
+This is a natural way of telling the player that they are stronger than the enemies because those are trying to scape from the party.
+## Block escape
+If the party tries to flee out of combat and fails, the enemies will have an extra turn so the option to flee because the enemies are too strong is a risk itsefl. The players are forced to plan when they are entering some zones or fighting against certain enemies, also they are encouraged to use high-cost skills or consumable items before trying to flee, because if they don't manage to scape, the death of a party member will be more punishing than the use of these tools.
+## Item usage
+If an enemy is able to drop a specific item and certain conditions are met during battle, the enemy will use this item to help themselves or other enemies in combat.
+## Charming/Taming
+The charm is an altered state that makes an enemy help your party for a specific number of turns. Charmed enemies are not controlled by the player so they will beahave as usual but against the other enemies.
+If the player uses certain abilities and/or items onto an enemy it might want to join your party when slain. These enemies act as complete characters so you can continue the game using the tamed enemies equiping, leveling and controlling them.
+# Example bosses
